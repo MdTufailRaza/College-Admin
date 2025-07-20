@@ -69,3 +69,9 @@ Install WordPress
 Add project to /wp-content/plugins/ or /wp-content/themes/
 Activate plugin/theme from the WordPress dashboard
 
+
+<img width="1887" height="824" alt="Screenshot 2025-07-20 144205" src="https://github.com/user-attachments/assets/4ab85886-85a6-461f-870e-0cd14219c830" />
+<img width="1895" height="894" alt="image" src="https://github.com/user-attachments/assets/c40f22ec-7ea8-4dae-83bc-f5eb63626184" />
+
+<img width="1876" height="898" alt="image" src="https://github.com/user-attachments/assets/29b778f9-00b1-4b31-8e3b-1355b8bf2728" />
+
